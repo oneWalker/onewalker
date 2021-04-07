@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 [![onewalker's github stats](https://github-readme-stats.vercel.app/api?username=onewalker)](https://github.com/onewalker)
 -->
 - 🔭 Rich practice in Node.js, especially in the framework of [egg.js](https://eggjs.org/en/tutorials/index.html),[express.js](https://expressjs.com/),[mongoose.js](https://mongoosejs.com/)and [sequelize.js](https://sequelize.org/);
-- 🌱 Currently focusing on Java and Python mainly for data processing.
+- Have practice experience in Java in Backend Service and Python mainly for data processing.
+- Currently in a compixed technologies surroundings.
 - 🔗 Articles: CSDN[@ImWalkerKun](https://blog.csdn.net/sinat_20744625).
