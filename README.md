@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - Currently learning golang in a mixing technologies surroundings.
 - 🔗 Articles: CSDN[@ImWalkerKun](https://blog.csdn.net/sinat_20744625).
 <br>
-<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=oneWalker&hide=html&&line_height=3 />
+<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=oneWalker&hide=html&&line_height=1 />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=onewalker" />
 </br
