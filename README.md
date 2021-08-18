@@ -1,5 +1,5 @@
 ### 🌈 Hi I'm Brian! 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=onewalker&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=onewalker&count_private=true&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" />
 
 <!--
 **oneWalker/onewalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
