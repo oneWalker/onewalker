@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔗 Articles: CSDN[@ImWalkerKun](https://blog.csdn.net/sinat_20744625).
 -->
 <a>
-<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=oneWalker&hide=html,css,c%23&/>
+<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=oneWalker&hide=html,css,scss,less,c%23&/>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=onewalker" />
 </a>
