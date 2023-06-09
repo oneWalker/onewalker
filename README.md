@@ -2,9 +2,9 @@
 
 <p align="center"><image src="https://github-profile-trophy.vercel.app/?username=oneWalker&rank=-C"></p>
 
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onewalker&count_private=true&show_icons=true&theme=flag-india" />
 
-<!--
 **oneWalker/onewalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
