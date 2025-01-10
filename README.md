@@ -26,8 +26,11 @@ Here are some ideas to get you started:
   - Medium[@briankenliu](https://medium.com/@briankenliu)
 -->
 <a>
-<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=onewalker&hide=html,css,scss,less,c%23&/>
-  
+<img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=onewalker&hide=html,css,scss,less,c%23&,/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=onewalker" />
+</a>
+<a>
+  <img align="center" src=https://wakatime.com/share/@ab418518-7f0f-4a6a-950d-4e3751e65181/ecfc5df6-4aaf-4579-bcf4-202791707d30.svg/>
+</a>
 
 
