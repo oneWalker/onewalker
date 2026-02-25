@@ -1,5 +1,4 @@
-<h1 align = "center" >🌈 Hi I'm Brian! 👋</h1>,
-
+<h1 align = "center" >🌈 Hi I'm Brian! 👋</h1>
 
 <!--
 <p align="center"><image src="https://github-profile-trophy.vercel.app/?username=oneWalker&rank=-C"></p>
@@ -25,10 +24,14 @@ Here are some ideas to get you started:
   - CSDN[@imWalkerKun](https://blog.csdn.net/sinat_20744625).
   - Medium[@briankenliu](https://medium.com/@briankenliu)
 -->
-<a>
+<!-- <p>
 <img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=onewalker&layout=compact&langs_count=10&hide_border=true&hide=html,css,scss,less,c%23&,/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onewalker&count_private=true&show_icons=true&theme=flag-india" />
-<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=onewalker" /> -->
-</a>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=onewalker" />
+</p> -->
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=onewalker&color=blue&style=flat-square" alt="onewalker" align="center" />
+  <img src="https://img.shields.io/badge/From-Feb%2026%2C%202026-blue?style=flat-square" alt="start date" align="center" />
+</p>
 
