@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=onewalker&color=blue&style=flat-square" alt="onewalker" align="center" />
-  <img src="https://img.shields.io/badge/From-Feb%2026%2C%202026-blue?style=flat-square" alt="start date" align="center" />
+  <img src="https://img.shields.io/badge/From-Feb%2025%2C%202026-blue?style=flat-square" alt="start date" align="center" />
 </p>
 
